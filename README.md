@@ -3,4 +3,4 @@ This project demonstrates a complete data workflow: I imported raw datasets into
 
 ## Power BI Dashboard Preview
 
-![Dashboard preview](HR_dashboard.png)
+![Dashboard preview](HR_dashboard.jpg)
